@@ -1,0 +1,10 @@
+PatientId: 101 , Name: Vedika , Doctor : Dr.Sushmita
+PatientId: 102 , Name: Alok , Doctor : Dr.Sujata
+PatientId: 103 , Name: Yuvraj , Doctor : Dr.Balwinder
+PatientId: 104 , Name: Arya , Doctor : Dr.Gee bee
+PatientId: 105 , Name: Simran , Doctor : Dr.Saroj
+PatientId: 106 , Name: Abhay , Doctor : Dr.Sharma
+PatientId: 107 , Name: Piyush , Doctor : Dr.Suman
+PatientId: 108 , Name: Swati , Doctor : Dr.Rajnish
+PatientId: 109 , Name: Palak , Doctor : Dr.Sharma
+PatientId: 110 , Name: Raihan , Doctor : Dr.Gandhi
