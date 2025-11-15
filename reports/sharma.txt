@@ -1,2 +1,4 @@
+Doctor-wise report
 PatientId: 106 , Name: Abhay , Doctor : Dr.Sharma
 PatientId: 109 , Name: Palak , Doctor : Dr.Sharma
+PatientId: 120 , Name: Phalak , Doctor : Dr.Sharma
